@@ -1,4 +1,4 @@
-package exe3;
+package ex3;
 public class ThrowsDemo
 {
     public void getDetails(String key) {
