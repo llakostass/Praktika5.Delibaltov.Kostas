@@ -61,7 +61,7 @@ public class Main {
         try {
             calculator();
         } catch (Exception e) {
-            System.out.println("Oops, that doesn't work... ");
+            System.out.println("That doesn't work");
         }
 
     }
