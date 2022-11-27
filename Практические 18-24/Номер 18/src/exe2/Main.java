@@ -1,4 +1,4 @@
-package exe2;
+package ex2;
 import java.util.Scanner;
 
 public class Main
@@ -25,5 +25,5 @@ public class Main
             System.out.println("======");
         }
 
-    }// end main
+    }
 }
